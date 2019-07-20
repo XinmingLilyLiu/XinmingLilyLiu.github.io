@@ -81,11 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Xinming Lily Liu"
-  avatar           : "profile.png"
-  bio              : "Cornell '20 ORIE & CS, Math (minor)"
+  avatar           : "profile.jpg"
+  bio              : "Cornell '20 ORIE & CS (double major), Math (minor)"
   location         : "Ithaca, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : xl379 at cornell dot edu
   researchgate     : # "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/xinming-lily-liu/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
