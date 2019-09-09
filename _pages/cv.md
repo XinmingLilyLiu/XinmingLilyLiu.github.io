@@ -13,7 +13,6 @@ Education
 ======
 * B.S. in Operations Research and Information Engineering (Honors Program), Cornell University, 2020 (expected)
 * B.S. in Computer Science (Honors Program), Cornell University, 2020 (expected)
-* B.A. in Mathematics (Minor), Cornell University, 2020 (expected)
 
 Working Experience
 ======
@@ -47,5 +46,5 @@ Teaching
 Service and leadership
 ======
 * President of INFORMS Cornell Chapter
-* Professional Development Chair of Tau Beta Pi Engineering Honor Society
+* Professional Development Chair and member of Tau Beta Pi Engineering Honor Society
 * Member of Omega Rho International Honor Society for Operations Research and Management Science
