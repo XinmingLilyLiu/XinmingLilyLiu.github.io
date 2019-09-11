@@ -14,15 +14,4 @@ I am interested in applying game theory, probability and optimization to study h
 
 I like to apply what I have learned in classroom to solve real-world problems and I interned at Blackston, Amazon Robotics and ODH, Inc. Teaching is another excellent way of learning. I have listed the courses that I serve as an undergraduate teaching assistant [here](https://xinminglilyliu.github.io/teaching/).
 
-Outside of academia, I am an avid [reader](https://xinminglilyliu.github.io/portfolio/). I enjoy reading The Principles by Ray Dalio and therefore I follow three guiding priciples that define me much better than any noun.
-
-**You are what you decide to be.**
-
-Life is full of choices and we make decisions that shape us into who we are. It is interesting to understand more about the decision-making mechanisms.
-
-**Life is a Marathon.**
-
-Life is long and there is no need to hurry.
-
-**Your network is every single person you met in your life.**
-
+Outside of academia, I am an avid reader and please check out my [book rack](https://xinminglilyliu.github.io/portfolio/) for my favoriate books in decision making, game theory, behavioral economics and mathematical thinking.
