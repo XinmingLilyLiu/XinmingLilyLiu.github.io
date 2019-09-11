@@ -1,6 +1,6 @@
 ---
 title: "Decision Making"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/decision_making.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/decision_making.PNG'>"
 collection: portfolio
 ---
 
