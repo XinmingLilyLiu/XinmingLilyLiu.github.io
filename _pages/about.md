@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Lily, a senior at Cornell University College of Engineering, double majoring in Honors Programs of Operations Research and Information Engineering (ORIE) and Computer Science (CS). I am currently serving as the President of INFORMS Cornell chapter, Professional Development Chair of [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm) and member of [Omega Rho](https://connect.informs.org/omegarho/about-omega-rho/welcome). 
+My name is Lily, a senior at Cornell University College of Engineering, double majoring in Honors Programs of Operations Research and Information Engineering (ORIE) and Computer Science (CS). I am currently serving as the President of [INFORMS](https://www.informs.org/) Cornell chapter, Professional Development Chair of [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm) and member of [Omega Rho](https://connect.informs.org/omegarho/about-omega-rho/welcome). 
 
 I am interested in applying game theory, probability and optimization to study how strategic interactions between individuals can impact organizations and society as a whole. I have research experience in human behavior modeling, bounded rationality, ride sharing and reinforcement learning. Please go to [research](https://xinminglilyliu.github.io/publications/) section to learn more about some of my research projects!
 
