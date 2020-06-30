@@ -3,6 +3,7 @@ title: "Bounded Rationality in Las Vegas: Probabilistic Finite Automata Play Mul
 collection: publications
 permalink: /publication/UAI
 excerpt: 'In this paper, we propose a finite-state protocol that captures a resource-bounded agent in a multi-armed bandit setting. The proposed protoal is nearly-optimal and human-like.'
+date: 2020-5-14
 prof: "Joseph Y. Halpern"
 profurl: "https://www.cs.cornell.edu/home/halpern/"
 ---
