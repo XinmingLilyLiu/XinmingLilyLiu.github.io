@@ -3,6 +3,7 @@ title: "Analog-to-Feature (A2F) Conversion for Audio-Event Classification"
 collection: publications
 permalink: /publication/A2F
 excerpt: 'In this paper, we propose a novel and optimized classification algorithm called analog-to-feature (A2F) conversion. It provides a more energy-efficient solution to always-on sensors for audio-event classification.'
+date: 2018-05-18
 prof: "Christoph Studer"
 profurl: "https://www.ece.cornell.edu/faculty-directory/christoph-studer"
 ---
