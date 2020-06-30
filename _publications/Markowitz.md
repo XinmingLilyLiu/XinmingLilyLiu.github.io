@@ -3,6 +3,7 @@ title: "Trading Volatility Mispricings in the Options Market"
 collection: publications
 permalink: /publication/Markowitz
 excerpt: 'This paper is about applying Markowitz mean-variance optimization model to capture the volatility mispricings in options trading. It is a whole semester project for [ORIE 5370: Optimization Modeling in Finance](https://classes.cornell.edu/browse/roster/SP19/class/ORIE/5370).'
+date: 2019-05-30
 prof: "James Renegar"
 profurl: "https://www.engineering.cornell.edu/faculty-directory/james-renegar"
 
