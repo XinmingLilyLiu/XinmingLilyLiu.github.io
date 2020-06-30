@@ -3,6 +3,7 @@ title: "Metro and Bike-sharing Systems in Washington DC, Boston and San Francisc
 collection: publications
 permalink: /publication/Ridesharing
 excerpt: 'This project uses a data-driven approach to understand how each method in the transportation system interacts with each other, particularly the metro syatem and bike-sharing system.'
+date: 2020-06-03
 prof: "David Shmoys"
 profurl: "https://people.orie.cornell.edu/shmoys/"
 ---
