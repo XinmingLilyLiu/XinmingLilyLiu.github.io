@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinming Lily Liu"
 title_separator          : "-"
 name                     : &name "Xinming Lily Liu"
-description              : &description "Undergraduate Student at Cornell University ORIE & CS"
+description              : &description "First-year PhD at MIT Operations Research Center"
 url                      : https://XinmingLilyLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XinmingLilyLiu/XinmingLilyLiu.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xinming Lily Liu"
   avatar           : "profile.jpg"
-  bio              : "Cornell '20 ORIE & CS"
-  location         : "Ithaca, NY"
+  bio              : "Cornell '20 ORIE & CS | MIT '25 ORC"
+  location         : "Cambridge, MA"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : xl379@cornell.edu
+  email            : xinming@mit.edu
   researchgate     : # "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "XinmingLilyLiu"
+  github           : #"XinmingLilyLiu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "xinming-lily-liu/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0329-0245"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
