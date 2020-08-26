@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Operations Research and Information Engineering (Honors Program), Cornell University, 2020 (expected)
-* B.S. in Computer Science (Honors Program), Cornell University, 2020 (expected)
+* B.S. in Operations Research and Information Engineering (Honors Program), Cornell University, 2020
+* B.S. in Computer Science (Honors Program), Cornell University, 2020
 
 Working Experience
 ======
 * Summer 2019: Technology Analyst
   * Blackstone Innovations
   * Duties included: Full-stack development in JavaScript, C# and SQL for private equity fund accounting tool
-  * Supervisor: Zane
+  * Supervisor: Zane Mayberry
 
 * Summer 2018 & Fall 2018: Data Engineer Coop
   * Amazon Robotics
@@ -45,6 +45,6 @@ Teaching
   
 Service and leadership
 ======
-* President of INFORMS Cornell Chapter
-* Professional Development Chair and member of Tau Beta Pi Engineering Honor Society
-* Member of Omega Rho International Honor Society for Operations Research and Management Science
+* President of INFORMS Cornell Chapter 2019-2020
+* Professional Development Chair and member of Tau Beta Pi Engineering Honor Society 2018-2019
+* Member of Omega Rho International Honor Society for Operations Research and Management Science 2019-2020
