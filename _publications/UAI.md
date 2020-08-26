@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/UAI
 excerpt: 'In this paper, we propose a finite-state protocol that captures a resource-bounded agent in a multi-armed bandit setting. The proposed protoal is nearly-optimal and human-like.'
 date: 2020-5-14
+venue: '36th Conference on Uncertainty in Artificial Intelligence (UAI)'
 prof: "Joseph Y. Halpern"
 profurl: "https://www.cs.cornell.edu/home/halpern/"
 ---
