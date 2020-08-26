@@ -12,4 +12,4 @@ While traditional economics assumes that humans are fully rational agents who al
 
 [Download paper here](http://xinminglilyliu.github.io/files/Bounded_Rationality_in_Las_Vegas_Probabilistic_Finite_Automata_Play_Multi-Armed_Bandits.pdf)
 
-Presentation: https://youtube.com/embed/_wRbW9MZAKY
+[View presentation here] (https://youtube.com/embed/_wRbW9MZAKY)
