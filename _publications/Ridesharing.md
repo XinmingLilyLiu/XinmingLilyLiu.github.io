@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Ridesharing
 excerpt: 'This project uses a data-driven approach to understand how each method in the transportation system interacts with each other, particularly the metro syatem and bike-sharing system.'
 date: 2020-06-03
-venue: 'Independent research project with professor [David Shmoys](https://people.orie.cornell.edu/shmoys/)'
+venue: 'Research project with professor David Shmoys'
 prof: "David Shmoys"
 profurl: "https://people.orie.cornell.edu/shmoys/"
 ---
