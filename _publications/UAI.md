@@ -12,4 +12,6 @@ While traditional economics assumes that humans are fully rational agents who al
 
 [Download paper here](http://xinminglilyliu.github.io/files/Bounded_Rationality_in_Las_Vegas_Probabilistic_Finite_Automata_Play_Multi-Armed_Bandits.pdf)
 
-[View presentation here](https://youtube.com/embed/_wRbW9MZAKY)
+[View presentation for Uncertainty in Artificial Intelligence (UAI) here](https://youtube.com/embed/_wRbW9MZAKY)
+
+[View presentation for A.I. Socratic Circles (#AISC) here](https://ai.science/e/bounded-rationality-in-las-vegas-probabilistic-finite-automata-play-multi-armed-bandits--5ehKHjM2GVzWAlmNSRg0)
